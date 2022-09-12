@@ -2,7 +2,6 @@ body{
     text-align: center;
     background-color: #e1f7ff;
     background-color: white;
-    background-image: url("img/bg.png");
     background-size: cover;
 }
 
@@ -12,7 +11,7 @@ body{
     margin: auto;
     font-family: 'Karla', sans-serif;
     font-weight: 300;
-    color: #34304a;
+    color: indigo;
     position: relative;
 }
 
@@ -20,8 +19,8 @@ body{
     display: inline-block;
     width: 250px;
     height: 250px;   
-    background-color: #81b2e4;
-    border-radius: 50%;
+    background-color: indianred;
+    border-radius: 2%;
     padding: 10px;
 }
 
